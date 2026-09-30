@@ -107,7 +107,7 @@ Inter-VLAN routing was implemented using **router-on-a-stick**, while DHCP relay
 
 ## 📂 Project Files
 
-* [`Packet Tracer Network`](packet-tracer/Nexa-Office-Solutions.pkt)
+* [`Packet Tracer Network`](packet-tracer/Botabota_Office_Solutions02.pkt)
 * [`Troubleshooting Incidents`](documentation/troubleshooting-incidents.md)
 * [`Screenshots`](screenshots/)
 
