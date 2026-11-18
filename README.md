@@ -115,7 +115,7 @@ Inter-VLAN routing was implemented using **router-on-a-stick**, while DHCP relay
 
 ## 🎯 Project Goal
 
-To demonstrate practical **networking and IT support skills** through the complete lifecycle of a small business network—from initial setup and testing to network segmentation and troubleshooting.
+To demonstrate practical **networking and IT support skills** through the complete lifecycle of a small business network, from initial setup and testing to network segmentation and troubleshooting.
 
 **Built and tested in Cisco Packet Tracer.**
 
